@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.mnementh64.moneygang.GameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-12-26T17:34:30" hostname="Sylvains-MBP" time="0.033">
+  <properties/>
+  <testcase name="testGame()" classname="org.mnementh64.moneygang.GameTest" time="0.033"/>
+  <system-out><![CDATA[Player{name='Player 1', role=GODFATHER}
+Player{name='Player 2', role=GANGSTER}
+Player{name='Player 3', role=GANGSTER}
+Player{name='Player 4', role=GANGSTER}
+Player{name='Player 5', role=GANGSTER}
+Player{name='Player 6', role=UNDERCOVER}
+****************** Game round 1 ******************
+> End of Game round 1
+****************** Game round 2 ******************
+> End of Game round 2
+****************** Game round 3 ******************
+> End of Game round 3
+****************** Game round 4 ******************
+> End of Game round 4
+****************** Game round 5 ******************
+> End of Game round 5
+****************** Game round 6 ******************
+> End of Game round 6
+****************** Game round 7 ******************
+> End of Game round 7
+****************** Game round 8 ******************
+> End of Game round 8
+****************** Game round 9 ******************
+> End of Game round 9
+****************** Game round 10 ******************
+> End of Game round 10
+Game's winner : The winner is Player{name='Player 1', role=GODFATHER}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

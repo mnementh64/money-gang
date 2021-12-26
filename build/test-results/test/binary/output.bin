@@ -1,0 +1,27 @@
+(Player{name='Player 1', role=GODFATHER}
+'Player{name='Player 2', role=GANGSTER}
+'Player{name='Player 3', role=GANGSTER}
+'Player{name='Player 4', role=GANGSTER}
+'Player{name='Player 5', role=GANGSTER}
+)Player{name='Player 6', role=UNDERCOVER}
+3****************** Game round 1 ******************
+> End of Game round 1
+3****************** Game round 2 ******************
+> End of Game round 2
+3****************** Game round 3 ******************
+> End of Game round 3
+3****************** Game round 4 ******************
+> End of Game round 4
+3****************** Game round 5 ******************
+> End of Game round 5
+3****************** Game round 6 ******************
+> End of Game round 6
+3****************** Game round 7 ******************
+> End of Game round 7
+3****************** Game round 8 ******************
+> End of Game round 8
+3****************** Game round 9 ******************
+> End of Game round 9
+4****************** Game round 10 ******************
+> End of Game round 10
+FGame's winner : The winner is Player{name='Player 1', role=GODFATHER}
